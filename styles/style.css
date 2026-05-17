@@ -22,7 +22,7 @@
     gap: 32px;
     list-style: circle;
     font-size: 18px;
-    font-weight: 400px;
+    font-weight: 400;
     text-underline-offset: 4px;
 }
 
@@ -39,7 +39,7 @@
     font-style: normal;
     font-size: 18px; 
     text-underline-offset: 4px; 
-    font-weight: 400px;
+    font-weight: 400;
 }
 
 .address_link {
@@ -83,7 +83,7 @@
     flex-direction: column;
     color: #fff;
     text-transform: uppercase;
-    font-weight: 700px;
+    font-weight: 700;
     font-size: 100px;
     margin: 0;
     letter-spacing: 0.3em;
@@ -136,7 +136,7 @@
 
 .bet_button {
     background-color: transparent;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 22px;
     text-transform: uppercase;
     color: #fff;
@@ -237,7 +237,7 @@
 
 .look_more_card {
     display: block;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 20px;
     color: #000;
     text-decoration: underline;
